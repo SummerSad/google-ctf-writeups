@@ -1,0 +1,6 @@
+After unzip attachment, we get foo.ico
+
+Unzip foo.ico, we get driver.txt and www.com
+
+Open driver.txt, we get key
+CTF{qeY80sU6Ktko8BJW}

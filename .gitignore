@@ -1,5 +1,8 @@
 *.png
 *.pdf
 *.ico
-out*
+*.txt
+*.exe
+*.com
+!write-up.txt
 [0-9]*
