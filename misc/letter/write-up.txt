@@ -1,0 +1,4 @@
+Attachment is a zip file
+After unzip, copy Password line to another notepad, the key is revealed.
+
+CTF{ICanReadDis}

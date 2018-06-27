@@ -1,0 +1,15 @@
+Unzip attachment to have an image.
+Cut the image to only have the content of the mail.
+
+OCR using 
+https://onlineocr.net/
+
+Decrypt Ceasar cypher using
+https://www.xarg.org/tools/caesar-cipher/
+with key 7
+or using
+https://www.dcode.fr/caesar-cipher
+with shift 19
+
+VMY{vtxltkvbiaxkbltlnulmbmnmbhgvbiaxk} -->
+CTF{caesarcipherisasubstitutioncipher}
