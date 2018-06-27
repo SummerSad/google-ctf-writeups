@@ -1,5 +1,5 @@
 Google CTF Writeups
 ===================
 
-`Website
+`Google CTF
 <https://capturetheflag.withgoogle.com/>`_
