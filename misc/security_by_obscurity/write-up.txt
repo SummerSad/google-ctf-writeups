@@ -1,0 +1,7 @@
+Unzip the file until you have password.x, a zip file with
+password
+
+Use John the Ripper to crack that zip
+Password: asdf
+
+CTF{CompressionIsNotEncryption}
