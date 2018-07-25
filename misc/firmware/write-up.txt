@@ -1,0 +1,7 @@
+Use gunzip to extract the file
+We have challenge.ext4
+
+Use testdisk to copy .mediapc_backdoor_password.gz
+This is gzip file
+
+CTF{I_kn0W_tH15_Fs}
