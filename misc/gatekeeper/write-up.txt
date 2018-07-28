@@ -1,0 +1,28 @@
+After extracting, got gatekeeper file
+It is ELF 64 bit executed file
+./gatekeeper <username> <password>
+
+Use strings
+strings ./gatekeeper
+
+/===========================================================================\
+|               Gatekeeper - Access your PC from everywhere!                |
++===========================================================================+
+ACCESS DENIED
+[ERROR] Login information missing
+Usage: %s <username> <password>
+ ~> Verifying.
+0n3_W4rM
+ ~> Incorrect username
+zLl1ks_d4m_T0g_I
+Correct!
+Welcome back!
+CTF{%s}
+ ~> Incorrect password
+
+Username is 0n3_W4rM, because it is next to Incorrect username
+
+Password may be zLl1ks_d4m_T0g_I, but it is incorrect
+--> Try different approach, reverse it I_g0T_m4d_sk1lLz
+
+CTF{I_g0T_m4d_sk1lLz}
